@@ -1,0 +1,23 @@
+*-backups/
+_autosave-*
+*.bak
+*.bck
+
+*.lck
+
+*.kicad_prl
+
+*.dsn
+*.ses
+
+*.net
+*.rpt
+
+# *.gbr
+# *.drl
+# *.pos
+# *.csv
+# *.pdf
+# *.svg
+# gerbers/
+# production/
