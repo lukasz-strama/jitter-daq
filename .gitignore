@@ -19,5 +19,4 @@ _autosave-*
 # *.csv
 # *.pdf
 # *.svg
-# gerbers/
-# production/
+fab/

@@ -103885,7 +103885,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "UCLAMP3301D.TCT"
+		(property "Value" "CDSOD323-T03"
 			(at 261.62 82.5499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103908,7 +103908,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MCod/Fs.eSBQs1U.304Nkc5rxRZ3Lk6_1A4.ZX_npjU1R.C8"
+		(property "Datasheet" ""
 			(at 248.92 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -103932,43 +103932,7 @@
 				(justify left)
 			)
 		)
-		(property "Voltage - Breakdown" "3.5V"
-			(at 243.84 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Voltage - Clamping" "9.5V"
-			(at 241.3 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Current - Peak Pulse" "10A (8/20µs)"
-			(at 238.76 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Semtech Corporation"
+		(property "Manufacturer" "BOURNS"
 			(at 236.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -103980,7 +103944,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "UCLAMP3301D.TCT"
+		(property "MPN" "CDSOD323-T03"
 			(at 233.68 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -103992,20 +103956,8 @@
 				(justify left)
 			)
 		)
-		(property "TME Symbol" "UCLAMP3301D.TCT"
+		(property "TME Symbol" "CDSOD323-T03"
 			(at 231.14 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "DigiKey Part Number" "UCLAMP3301DCT-ND"
-			(at 228.6 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

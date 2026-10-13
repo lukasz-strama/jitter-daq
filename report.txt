@@ -1,0 +1,14 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Warning: Width correction constrained.  The width correction value must be in the range of [-0.151999 mm; -0.000002 mm] for the current design rules.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-F_Cu.gtl'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-In1_Cu.g1'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-In2_Cu.g2'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-B_Cu.gbl'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-F_Silkscreen.gto'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-B_Silkscreen.gbo'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-F_Mask.gts'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-B_Mask.gbs'.
+Plotted to '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-Edge_Cuts.gm1'.
+Created Gerber job file '/home/lukasz/KiCadProjects/jitter-daq/fab/jitter-hw-job.gbrjob'.
+Info: Done.
